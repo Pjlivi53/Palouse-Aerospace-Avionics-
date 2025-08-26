@@ -3,7 +3,7 @@ Palouse-Aerospace-Avionics, 2025
 
 | Members | Role |
 | ----------- | ----------- |
-| Preston | Lead/Electronics |
+| Preston | Lead |
 | Trey | Electronics |
 | Diego | Software |
 | Mitchell | Software |
