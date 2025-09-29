@@ -86,4 +86,4 @@ class SD_UNO
         delay(20);
       }
     }
-}
+};
